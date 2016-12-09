@@ -1,6 +1,6 @@
 package com.kjh.study.test;
 
-/**
+/*
 1/N 모양의 분수를 소수로 나타내어 봅시다.
 
     1/2 = 0.5
